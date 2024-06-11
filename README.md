@@ -1,2 +1,4 @@
 # ytAPI
-mosic library project
+music library project
+
+Need to install ytmusicapi
